@@ -1,0 +1,3 @@
+- 👋 Oi, eu sou a Eduarda
+- 🌱 No momento estou cursando Técnico em Desenvolvimento de Sistemas no SENACRS 
+- 💞️ Estou procurando por aprender e evoluir na área da tecnologia.
